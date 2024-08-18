@@ -1,0 +1,6 @@
+ESP32: Rs 1400-Rs 2775
+Radar Sensor Module: Rs 8300-Rs 27,700
+Power Supply Unit: Rs 1400-Rs 4160
+Enclosure: Rs 2775-Rs 5550
+Optional GPS Module: Rs 2775-Rs 5550
+Total: Rs 16,650-Rs 45,735
