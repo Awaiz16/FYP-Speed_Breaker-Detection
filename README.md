@@ -3,5 +3,5 @@ Detection of Road Bumps is a final year project aimed at developing a system to 
 
 
 
-MAIN GOAL:
-Objective: The main goal is to develop a reliable system that can detect road bumps and provide timely alerts to drivers, helping to prevent accidents and improve vehicle performance over uneven terrain.
+*MAIN GOAL:*
+The main goal is to develop a reliable system that can detect road bumps and provide timely alerts to drivers, helping to prevent accidents and improve vehicle performance over uneven terrain.
