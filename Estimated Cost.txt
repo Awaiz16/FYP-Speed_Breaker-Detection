@@ -15,6 +15,7 @@ Optional STM32F7/H7 Series (if more power is needed): Rs 4160-Rs 8300
 Power Supply: Rs 2775-Rs 4160
 Enclosure: Rs 2775-Rs 5550
 Total Estimated Cost: Rs 12,485-Rs 23,560
+Basic IMU sensor may cost between PKR 2,000 to PKR 5,000
 
 -------------- Estimated Total Cost (LIDAR & Ultra-Sonic)--------------
 
