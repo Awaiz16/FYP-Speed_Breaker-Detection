@@ -14,10 +14,9 @@ ESP32-CAM (or OV7670 with ESP32): Rs 2775-Rs 5550
 Optional STM32F7/H7 Series (if more power is needed): Rs 4160-Rs 8300
 Power Supply: Rs 2775-Rs 4160
 Enclosure: Rs 2775-Rs 5550
-Optional basic IMU sensor may cost between PKR 2,000 to PKR 5,000
 Optional GPS Module: Rs 2775-Rs 5550
-Total Estimated Cost: Rs 14,485-Rs 28,560
-
+Optional IMU Sensor : Rs 2000- Rs 5000 (Basic)
+Total Estimated Cost: Rs 12,485-Rs 34,010
 
 -------------- Estimated Total Cost (LIDAR & Ultra-Sonic)--------------
 
